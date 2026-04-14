@@ -10,10 +10,10 @@
 
 ## 🚀 About Me
 
-I'm an Informatics student who enjoys working with hardware and software together.
-I build projects using Arduino, ESP8266, and ESP32, especially focused on embedded systems and display-based interfaces.
+I'm an Informatics student who enjoys combining hardware and software into real working systems.
+I build projects using Arduino, ESP8266, and ESP32, with a focus on embedded systems and display-based interfaces.
 
-I like turning ideas into working systems — from simple circuits to interactive UI on small screens.
+I like turning ideas into functional systems — from simple circuits to interactive UI on small displays.
 
 ---
 
@@ -39,8 +39,14 @@ I like turning ideas into working systems — from simple circuits to interactiv
 ## 📂 Featured Projects
 
 * 🔐 RFID Multi-Card Access System
+  
+  A system that supports multiple RFID cards with authentication logic.
 * 🖥️ DIT OS (OLED-based UI System)
-* 📡 IoT Dashboard with Web Browser
+  
+  A mini embedded UI system with menu navigation and simple animations on OLED display.
+* 📡 IoT Dashboard with Web Interface
+  
+  A web-based system to monitor and control devices remotely.
 
 ---
 
@@ -54,7 +60,7 @@ I like turning ideas into working systems — from simple circuits to interactiv
 
 ## 📫 Contact
 
-* 0895376301131 (Raditya)
+* 
 
 <!--
 **raditworks/raditworks** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
