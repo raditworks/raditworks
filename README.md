@@ -25,12 +25,9 @@ I'm an Informatics student who enjoys combining hardware and software into real 
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=raditworks&theme=one_dark_pro&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ## My Bini 💕🗿
-<img src="img/Maomao.jpg" width=150px>
-<img src="img/IochiMari__BlueArchive.jpg" width=150px>
-<img src="img/Machi.jpg" width=150px>
-<img src="img/NazunaNanakusa.jpg" width=150px>
-<img src="img/Shikimori.jpg" width=150px>
+<img src="img/Maomao.jpg" width=150px> <img src="img/IochiMari__BlueArchive.jpg" width=150px> <img src="img/Machi.jpg" width=150px>
 
+<img src="img/NazunaNanakusa.jpg" width=150px> <img src="img/Shikimori.jpg" width=150px>
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
