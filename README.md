@@ -1,17 +1,17 @@
 <img src="img/banner_profil.png">
 
-# 💫 About Me:
+## 💫 About Me:
 🎓 D4 Informatics Engineering Student
 
 💻 Embedded Systems & IoT Developer
 
 ⚡ Passionate about building real-world projects with microcontrollers.
 
-I'm an Informatics student who enjoys combining hardware and software into real working systems. I build projects using Arduino, ESP8266, and ESP32, with a focus on embedded systems and display-based interfaces.<br><br>I like turning ideas into functional systems — from simple circuits to interactive UI on small displays.
-
 
 ## 🌐 Connect WIth Me:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/raditya.314033) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/radityasyafi_xy) 
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/raditya.314033) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/radityasyafi_xy) [![YouTube](https://img.shields.io/badge/YouTube-%23E4405F.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/@raditya1765) 
+
+
 
 ## 💻 Programming Skill:
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![XAMPP](https://img.shields.io/badge/Xampp-F37623?style=for-the-badge&logo=xampp&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
@@ -26,8 +26,8 @@ I'm an Informatics student who enjoys combining hardware and software into real 
 
 ## My Bini 💕🗿
 <img src="img/Maomao.jpg" width=150px> <img src="img/IochiMari__BlueArchive.jpg" width=150px> <img src="img/Machi.jpg" width=150px>
-
-<img src="img/NazunaNanakusa.jpg" width=150px> <img src="img/Shikimori.jpg" width=150px>
+<img src="img/NazunaNanakusa.jpg" width=150px> <img src="img/Shikimori.jpg" width=150px> <img src="img/Kazusa.jpg" width=150px>
+<img src="img/Mahiru.jpg" width=150px> <img src="img/SorasakiHina.jpg" width=150px> <img src="img/Seri.jpg" width=150px>
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
