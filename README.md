@@ -27,9 +27,9 @@
 ## My Bini 💕🗿
 <img src="img/Maomao.jpg" width=150px> <img src="img/IochiMari__BlueArchive.jpg" width=150px> <img src="img/Machi.jpg" width=150px>
 
-<img src="img/NazunaNanakusa.jpg" width=150px> <img src="img/Shikimori.jpg" width=150px> <img src="img/Kazusa.jpg" width=150px>
+<img src="img/NazunaNanakusa.jpg" width=150px> <img src="img/Sakayori_iroha.jpg" width=150px> <img src="img/Kazusa.jpg" width=150px>
 
-<img src="img/Mahiru.jpg" width=150px> <img src="img/SorasakiHina.jpg" width=150px> <img src="img/Seri.jpg" width=150px>
+<img src="img/Frieren.jpg" width=150px> <img src="img/SorasakiHina.jpg" width=150px> <img src="img/Seri.jpg" width=150px>
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
