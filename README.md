@@ -31,6 +31,11 @@
 
 <img src="img/Frieren.jpg" width=150px> <img src="img/SorasakiHina.jpg" width=150px> <img src="img/Seri.jpg" width=150px>
 
+## My Favorite Anime and Movie
+<img src="poster/HunterxHunter.jpg" height=200px> <img src="poster/CosmicPrincessKaguya.jpg" height=200px> <img src="poster/KusuriyanoHitorigoto.jpg" height=200px>
+
+<img src="poster/CamfireCooking.jpg" height=200px> <img src="poster/Frieren_BeyondJourneysEnd.jpg" height=200px> <img src="poster/Dr.Stone.jpg" height=200px>
+
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
