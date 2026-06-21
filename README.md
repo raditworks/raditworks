@@ -5,7 +5,7 @@
 
 💻 Embedded Systems & IoT Developer
 
-⚡ Passionate about building real-world projects with microcontrollers and display.
+⚡ Passionate about building real-world projects with microcontrollers.
 
 
 ## 🌐 Connect WIth Me:
